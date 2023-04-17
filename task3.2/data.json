@@ -1,0 +1,22 @@
+{
+  "available_sizes": {
+    "S": 10,
+    "M": 6,
+    "L": 15,
+    "XL": 10,
+    "XXL": 5,
+    "XXXL": 2
+  },
+  "participants": [
+    {"size": ["S","M"]},
+    {"size": ["M", "L"]},
+    {"size": ["M", "S"]},
+    {"size": ["XL", "XXL"]},
+    {"size": ["S", "M"]},
+    {"size": ["XL", "XXL"]},
+    {"size": ["M", "S"]},
+    {"size": ["M", "S"]},
+    {"size": ["M", "S"]},
+    {"size": ["M", "S"]}
+  ]
+}

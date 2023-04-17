@@ -1,0 +1,141 @@
+{
+  "scene": [
+    [
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1
+    ]
+  ],
+  "result": [
+    {
+      "direction": "right",
+      "i": 0,
+      "j": 0
+    },
+    {
+      "direction": "down",
+      "i": 0,
+      "j": 0
+    },
+    {
+      "direction": "left",
+      "i": 0,
+      "j": 2
+    },
+    {
+      "direction": "right",
+      "i": 0,
+      "j": 2
+    },
+    {
+      "direction": "down",
+      "i": 0,
+      "j": 2
+    },
+    {
+      "direction": "left",
+      "i": 1,
+      "j": 3
+    },
+    {
+      "direction": "up",
+      "i": 1,
+      "j": 3
+    },
+    {
+      "direction": "down",
+      "i": 1,
+      "j": 3
+    },
+    {
+      "direction": "right",
+      "i": 2,
+      "j": 0
+    },
+    {
+      "direction": "up",
+      "i": 2,
+      "j": 0
+    },
+    {
+      "direction": "down",
+      "i": 2,
+      "j": 0
+    },
+    {
+      "direction": "left",
+      "i": 3,
+      "j": 2
+    },
+    {
+      "direction": "up",
+      "i": 3,
+      "j": 2
+    },
+    {
+      "direction": "down",
+      "i": 3,
+      "j": 2
+    },
+    {
+      "direction": "left",
+      "i": 3,
+      "j": 3
+    },
+    {
+      "direction": "up",
+      "i": 3,
+      "j": 3
+    },
+    {
+      "direction": "down",
+      "i": 3,
+      "j": 3
+    },
+    {
+      "direction": "right",
+      "i": 4,
+      "j": 0
+    },
+    {
+      "direction": "up",
+      "i": 4,
+      "j": 0
+    },
+    {
+      "direction": "right",
+      "i": 4,
+      "j": 1
+    },
+    {
+      "direction": "up",
+      "i": 4,
+      "j": 1
+    }
+  ]
+}
